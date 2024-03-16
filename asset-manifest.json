@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PRODIGY_WD_03/static/css/main.ee927306.css",
+    "main.js": "/PRODIGY_WD_03/static/js/main.bdd09c4b.js",
+    "index.html": "/PRODIGY_WD_03/index.html",
+    "main.ee927306.css.map": "/PRODIGY_WD_03/static/css/main.ee927306.css.map",
+    "main.bdd09c4b.js.map": "/PRODIGY_WD_03/static/js/main.bdd09c4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee927306.css",
+    "static/js/main.bdd09c4b.js"
+  ]
+}
